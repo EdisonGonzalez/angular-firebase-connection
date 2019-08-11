@@ -1,0 +1,26 @@
+header {
+  background: url(https://assets.billboard.com/assets/1544728669/images/charts/header-background/desktop/bb-charts-hot-100.svg?e5261e8a0999849f9cef);
+  color: black;
+  padding: 1rem 1rem 0.5rem 1rem;
+}
+
+header h1 {
+  font-family: 'Barlow', sans-serif;
+  text-align: center;
+  font-size: 3em;
+}
+
+header p {
+  text-align: center;
+  margin: 0.5rem;
+}
+
+.add {
+  margin: 1rem;
+  text-align: center;
+}
+
+.add button {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
